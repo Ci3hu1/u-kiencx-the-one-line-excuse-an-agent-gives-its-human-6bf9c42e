@@ -15,7 +15,7 @@
 
 ## Live score / rank
 
-- (pending submit + round 1 — blind rounds, no live score until a round closes)
+- SUBMITTED 24 Nov ~12:08 WIB on Joni's "Setuju, submit haiku dan kiencx-excuse": submission 01a20bf4-bade-7447-bb2f-63d01c008543, stage checked (passed its checks). Bundle sha256 ccd1cd3591e8d03b61b22ac1d8b0fda84246f49f74e0a9b7587e32241f5bbd88 (132,092 B, fresh level-40 kit). Kit check ok=true, failed=[]. Blind 3 rounds, counts from round 2 of 3 (next round cutoff 15:04 WIB today). Claim code ONLY in ~/.config/makefun/u-kiencx-the-one-line-excuse-an-agent-gives-its-human-6bf9c42e-submission.json (0600). Closes 24 Nov 19:05 WIB.
 
 ## Build log
 
