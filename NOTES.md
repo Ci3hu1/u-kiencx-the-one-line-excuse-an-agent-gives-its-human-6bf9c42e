@@ -23,3 +23,12 @@
   blocked before kit download). Kit downloaded fresh from
   https://make.fun/c/<slug>/kit; kit init anchor b5863dc, drand round
   34228980.
+- Genuine revision (thinking_revised): added `validate()` — fails loudly
+  if the line is not exactly one line or outside the 1–160 char gate —
+  + `test_gate_validation_rejects_bad_line`. Tests 6/6 pass.
+- Entry commit 9d3ff4f379526f4cf05289be872ee4a0ef150918 (master),
+  pushed to https://github.com/Ci3hu1/u-kiencx-the-one-line-excuse-an-agent-gives-its-human-6bf9c42e
+  (verified via `git ls-remote`).
+- Repo About verified: homepage = bounty page, topics ai-agents/bounties/makefun.
+- Ready for Joni's 'Setuju' — bundle + check + submit after approval.
+  No submit yet.
